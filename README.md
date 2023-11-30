@@ -6,11 +6,6 @@ I am ***Wonkglorg***, I code mods and plugins for minecraft among other things i
 
 <br>
 
-### Socials
-
-[![YouTube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@wonkglorg)
-[![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg)
-
 
 ### Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=wonkglorg&theme=transparent&hide_border=true&mode=weekly&sideNums=EBD6D2&fire=EB1616&ring=EB2944&dates=AA9B98&sideLabels=FFF6F6&currStreakLabel=EBD6D2&currStreakNum=EBD6D2)](https://git.io/streak-stats)
@@ -26,7 +21,6 @@ I am ***Wonkglorg***, I code mods and plugins for minecraft among other things i
 
 
 ### Languages and Tools
-<br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="50" height="50"/>&nbsp;
@@ -34,3 +28,9 @@ I am ***Wonkglorg***, I code mods and plugins for minecraft among other things i
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="50" height="50"/>&nbsp;
 </div>
+<br>
+
+### Socials
+
+[![YouTube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@wonkglorg)
+[![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg)
