@@ -13,15 +13,16 @@ any project I find could be useful to others will be open source for anyone to u
 
 ### Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=wonkglorg&theme=transparent&hide_border=true&mode=weekly&sideNums=EBD6D2&fire=EB1616&ring=EB2944&dates=AA9B98&sideLabels=FFF6F6&currStreakLabel=EBD6D2&currStreakNum=EBD6D2)](https://git.io/streak-stats)-----------------------------[![Github Top Languages](https://readme-stats-smoky.vercel.app/api/top-langs/?username=wonkglorg&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=wonkglorg&theme=transparent&hide_border=true&mode=weekly&sideNums=EBD6D2&fire=EB1616&ring=EB2944&dates=AA9B98&sideLabels=FFF6F6&currStreakLabel=EBD6D2&currStreakNum=EBD6D2)](https://git.io/streak-stats)
+[![Github Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wonkglorg&theme=transparent&layout=donut&hide_title=true&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-----------------------------[![Github Top Languages](https://readme-stats-smoky.vercel.app/api/top-langs/?username=wonkglorg&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
  <!--
 <br>
   <img height="135px" src="https://github-readme-stats.vercel.app/api?username=wonkglorg&theme=nord&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&line_height=21">
   -->
-
-
 
 
 ### Languages and Tools
