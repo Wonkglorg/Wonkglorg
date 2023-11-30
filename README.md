@@ -9,7 +9,7 @@ I am ***Wonkglorg***, I code mods and plugins for minecraft among other things i
 
 ### Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=wonkglorg&theme=transparent&hide_border=true&mode=weekly&sideNums=EBD6D2&fire=EB1616&ring=EB2944&dates=AA9B98&sideLabels=FFF6F6&currStreakLabel=EBD6D2&currStreakNum=EBD6D2)](https://git.io/streak-stats)
-⠀⠀⠀⠀[![Github Top Languages](https://github-readme-stats-wonk.vercel.app/api/top-langs/?username=wonkglorg&theme=transparent&layout=donut&hide_title=true&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+⠀⠀⠀⠀[![Github Top Languages](https://readme-stats-three-nu.vercel.app/api/top-langs/?username=wonkglorg&theme=transparent&layout=donut&hide_title=true&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-----------------------------[![Github Top Languages](https://readme-stats-smoky.vercel.app/api/top-langs/?username=wonkglorg&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
