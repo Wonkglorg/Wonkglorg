@@ -1,9 +1,10 @@
-## Hey!
+## 👋 Hey!
 
-I am ***Wonkglorg*** and I code mods and plugins for minecraft in my free time,
-any project I find could be useful to others will be open source for anyone to use! 
+I am ***Wonkglorg***, I code mods and plugins for minecraft among other things in my free time!
 
 <!--<img src="https://komarev.com/ghpvc/?username=wonkglorg&style=flat-square&color=blue" alt=""/>   Banner that shows profile views-->
+
+<br>
 
 ### Socials
 
