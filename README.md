@@ -1,7 +1,7 @@
 ### Hey!
 
 I am ***Wonkglorg*** and I code mods and plugins for minecraft in my free time,
-any project I find could be useful to others will be open for anyone to use! 
+any project I find could be useful to others will be open source for anyone to use! 
 
 <!--
 **Wonkglorg/Wonkglorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
